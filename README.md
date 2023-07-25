@@ -7,6 +7,6 @@
 * I love video games _(who doesn't?)_
 * I have a wonderful and smart doggo 
    
-![](https://i.ibb.co/Pj95Bvq/photo-2023-04-30-17-54-10.jpg)
+![](https://github.com/redmalice/pics/blob/4ada10befb2f09d7ca0277219c5ef6f2327b9a69/photo_2023-04-30_17-54-10.jpg)
 
 ##### This page was created as a homework.
